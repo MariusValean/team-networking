@@ -1,26 +1,20 @@
 [
-	{
-		"promotion": "won11",
-		"members": "Noi",
-		"name": "Teams",
-		"url": "github"
-	},
-	{
-		"promotion": "won13",
-		"members": "Ei",
-		"name": "Teams",
-		"url": "github"
-	},
-	{
-		"promotion": "won14",
-		"members": "Ei",
-		"name": "Teams",
-		"url": "github"
-	},
-	{
-		"promotion": "A",
-		"members": "B",
-		"name": "C",
-		"url": "D"
-	}
+  {
+    "promotion": "Won11",
+    "members": "Mihai Adrian",
+    "name": "Project 1",
+    "url": "mihaiadrian.github.com"
+  },
+  {
+    "promotion": "Won12",
+    "members": "Alex Bucur",
+    "name": "Project 2",
+    "url": "alexbucur.github.com"
+  },
+  {
+    "promotion": "Won13",
+    "members": "George Mihai",
+    "name": "Project 3",
+    "url": "georgemihai.github.com"
+  }
 ]
